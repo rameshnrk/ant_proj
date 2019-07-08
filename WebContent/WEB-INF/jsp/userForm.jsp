@@ -62,11 +62,11 @@
 </form:form>
 <table width="50%" bgcolor="red" align="center">
 
-<tr>
+<tr bgcolor="yellow">
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 </tr>
 
-<tr>
+<tr bgcolor="white">
 <td>Username:</td>
 <td><input type="text" size=25 name="userid"></td>
 </tr>
